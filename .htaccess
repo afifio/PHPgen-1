@@ -1,0 +1,12 @@
+## Basic .htaccess File
+
+## Allow / Disallow (+/-) Indexes, MultiViews.
+Options -Indexes +MultiViews
+
+## Authenthification, create .htpasswd first, then uncomment.
+#AuthType Basic
+#AuthName "Members Only"
+#AuthUserFile .htpasswd
+#<limit GET PUT POST>
+#require valid-user
+#</limit>

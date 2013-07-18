@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<data>
+  <customers>
+    <customer id="1">
+      <name>eXigem Media</name>
+      <street>Uhlandstr. 29</street>
+      <plz>38102</plz>
+      <city>Braunschweig</city>
+      <email>kontakt@exigem.com</email>
+      <phone>(0531) 42877630</phone>
+      <web>http://www.exigem.com/</web>
+    </customer>
+  </customers>
+</data>

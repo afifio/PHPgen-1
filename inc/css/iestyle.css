@@ -1,0 +1,182 @@
+/*----------------------------------------------------------*/
+/*           Wir brauchen das fuer den ollen M$ IE          */
+/*----------------------------------------------------------*/
+body {
+	background-color:	#FFF;
+	background-image:	url(img/background.png);
+	background-repeat:	no-repeat;
+	color:			#000;
+	font-size:		11pt;
+	font-family:		Serif;
+	text-align:		center;
+}
+
+a:link {
+	color:		#005;
+	text-decoration:none;
+}
+a:hover {
+	color:		#00F;
+	text-decoration:	underline;
+}
+a:active {
+	color:		#00F;
+}
+a:visited {
+	color:		#005;
+	text-decoration:none;
+}
+
+p,ul,li,div {
+	margin:0px;
+	padding:0px;
+}
+
+#head {
+	display:	block;
+	background-color:	#EEE;
+	background-image:	url(img/ipg_logo.png);
+	background-repeat:no-repeat;
+	color:		#000;
+	font-size:	120%;
+	text-align:	left;
+	margin-right:	32px;
+	padding-left:	140px;
+	padding-bottom:	10px;
+	height:		100px;
+}
+#head img {
+	display:block;
+	float:left;
+	height:	100px;
+	width:	120px;
+}
+
+#head b {
+	font-size:	200%;
+}
+
+
+#menu {
+	display:block;
+	width: 		128px;
+	background:	#EEE;
+	color:		#000;
+	font-size:	8pt;
+	margin-right:	32px;
+	float:		left;
+}
+
+#menu a:link, #menu a:visited{
+	position:		relative;
+	display:		block;
+	color:			#000;
+	background-color:	#CCC;
+	margin:			5px;
+	padding:		0px;
+	border:			2px solid #81a5cd;
+	border-left:		16px solid #81a5cd;
+	font-variant:		small-caps;
+	letter-spacing:		0.0em;
+	vertical-align:		middle;
+}
+
+#menu a:hover, #menu a.menu-high{
+	background-color:	#FFF;
+	text-decoration:	none;
+	color:			#009;
+	border:			2px solid #E00;
+	border-left:		16px solid #E00;
+}
+
+#menu a.menu-high{
+	font-size:		120%;
+}
+
+#content {
+	display:		block;
+	margin-right:		32px;
+	margin-left:		132px;
+	text-align:		left;
+	vertical-align:		top;
+	border-left:			20px dotted #EEE;
+}
+
+#foot {
+	display:block;
+	position:fixed;
+	bottom:0px;
+	right:0px;
+	color:#BBB;
+	font-size: 80%;
+}
+
+
+
+input, select {
+	background:	#00f;
+	color:		#fff; 
+	font-size:	10pt;
+	font-family:	Arial;
+	font-weight:	bold;
+	border:		5px solid #FFF;
+	padding:	3px;
+	margin:		3px;
+	letter-spacing:	0.1em;
+}
+select:disabled, select[disabled]:hover { 
+	background: #CCC;
+	color: #555;
+}
+input[type="text"],input[type="text"]:hover, textarea{
+	border:		2px inset #FFF;
+	background: 	#fff7c7;
+	color:		#000; 
+}
+
+input:hover, select:hover {
+	border:		5px solid #FF0;
+}
+input:active, select:active {
+	border:		5px ridge #FF0;
+}
+
+
+div.inborder_text {
+	display:		block;
+	color:			#000;
+	margin:			10px;
+	padding:		0px;
+	text-align:		left;
+	vertical-align: 	top;
+	border:			1px dotted #999;
+}
+
+div.inborder_text a:link, div.inborder_text a:visited, div.inborder_text a:active {
+	color:		#33F;
+	text-decoration:none;
+}
+div.inborder_text a:hover {
+	color:		#55F;
+	text-decoration:underline;
+}
+div.inborder_text ul, div.inborder_text ol {
+	list-style-type:none;
+	text-indent:	20px;
+	margin:10px;
+}
+
+div.inborder_text li {
+	margin: 5px;
+	padding: 10px;
+}
+
+img {
+	border:	none;
+}
+
+p img {
+	border:	none;
+	fload: left;
+	margin:5px;
+}

@@ -1,0 +1,5 @@
+0 | Name | Straße | 38100 Stadt | mail@provider.de | (0531) 42877630 | http://www.provider.de/
+1 | eXigem Media | Uhlandstr. 29 | 38100 Braunschweig | info@exigem.com | (0531) 42877630 | http://www.exigem.com/
+2 | Name | Straße | 38100 Stadt | mail@provider.de | (0531) 42877630 | http://www.provider.de/
+3 | Name | Straße | 38100 Stadt | mail@provider.de | (0531) 42877630 | http://www.provider.de/
+4 | Kunde | Straße | 38100 Stadt | mail@provider.de | (0531) 42877630 | http://www.provider.de/

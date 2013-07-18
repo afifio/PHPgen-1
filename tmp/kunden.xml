@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<data>
+  <customers>
+    
+    <customer id="6">
+      <name>Kosatec</name>
+      <partner>Marcus Stebner</partner>
+      <street>Carl-Miele Str.3</street>
+      <plz>38112</plz>
+      <city>Braunschweig</city>
+      <email>m.stebner@kosatec.de</email>
+      <phone>(0531) 235444020</phone>
+      <web>http://www.kosatec.de</web>
+    </customer>
+    <customer id="5">
+      <name>Allianz</name>
+      <partner>Burkhard St&#xFC;ber </partner>
+      <street>Galgenbreite 23</street>
+      <plz>38350</plz>
+      <city>Helmstedt</city>
+      <email>burkhard.stueber@allianz.de</email>
+      <phone>(05351) 595416</phone>
+      <web>http://www.allianz.de</web>
+    </customer>
+    <customer id="4">
+      <name>DKV</name>
+      <partner>Torsten Otto</partner>
+      <street>Am Klagesmarkt 14-17</street>
+      <plz>30159</plz>
+      <city>Hannover</city>
+      <email>torsten.otto@dkv.com</email>
+      <phone>(0511) 16608511</phone>
+      <web>http://www.dkv.de/</web>
+    </customer>
+    <customer id="3">
+      <name>Deutsche Bank</name>
+      <partner>Anja Wagner</partner>
+      <street>Bohlweg 24</street>
+      <plz>38100</plz>
+      <city>Braunschweig</city>
+      <email>anja.wagner@db.com</email>
+      <phone>(0531) 2446518</phone>
+      <web>http://www.db.com/</web>
+    </customer>
+    <customer id="2">
+      <name>Ergotherapie WF</name>
+      <partner>Anke Chiros</partner>
+      <street>Dietrich-Bohnhoeffer-Str. 1a</street>
+      <plz>38300</plz>
+      <city>Braunschweig</city>
+      <email> </email>
+      <phone>(05331) 906464</phone>
+      <web>http://www.ergotherapie-wolfenbuettel.de/</web>
+    </customer>
+    <customer id="1">
+      <name>eXigem Media</name>
+      <partner/>
+      <street>Uhlandstr. 29</street>
+      <plz>38102</plz>
+      <city>Braunschweig</city>
+      <email>kontakt@exigem.com</email>
+      <phone>(0531) 42877630</phone>
+      <web>http://www.exigem.com/</web>
+    </customer>
+  </customers>
+</data>
