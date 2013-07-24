@@ -7,7 +7,7 @@ define ("SITE_TITLE", "Wir lieben gutes Webdesign");	// Untertitel oder Slogan
 
 // SICHERHEIT
 define ("SITE_OWNER", "admin");				// Der verwendete Benutzername
-define ("SITE_PASSWD", "1nsecur3");			// Das verwendete Passwort
+define ("SITE_PASSWD", "CHANGEME");			// Das verwendete Passwort
 
 // Social
 define ("TWITTER", "http://twitter.com/#%21/exigem"); 	// Twitterurl
