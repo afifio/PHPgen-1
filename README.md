@@ -1,6 +1,6 @@
 # PHPgen #
 
-A raw content management system based on simple Files. No use of Database, so it will be usable for small websites that doesn't has a lot of Content. Latest `master` running at [www.exigem.com/gen](http://www-exigem.com/gen/)
+A raw content management system based on simple Files. No use of Database, so it will be usable for small websites that doesn't has a lot of Content. Latest `master` running at [www.exigem.com/gen](http://www.exigem.com/gen/)
 
 
 ## Dependencies ##
